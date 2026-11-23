@@ -23,9 +23,9 @@
 
 Construyo sistemas de **identidad digital** que tienen que funcionar en producción, bajo regulación real, para millones de personas.
 
-Ingeniero en el equipo de Identidad Digital de [Teknei](https://www.teknei.com), trabajando en **NIK / Patrika Digitala**, la cartera de identidad digital del País Vasco. Participo en toda la pila: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
+Actualmente trabajo en una **cartera de identidad digital** desplegada a escala nacional, en toda la pila: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
 
-Antes: smart contracts y librerías de identidad en **Alastria** (identidad autosoberana) e investigación en deep learning en la **Universidad de Jaén**.
+Antes: identidad autosoberana, smart contracts y librerías de identidad, además de investigación en deep learning con redes convolucionales.
 
 ## Trabajo destacado
 
@@ -70,9 +70,9 @@ Antes: smart contracts y librerías de identidad en **Alastria** (identidad auto
 
 <br/>
 
-- **Máster en Ciberseguridad**, Universidad de Jaén — TFM sobre bioidentificación segura con Blockchain, 10 (Matrícula de Honor), media 9,43
-- **Máster en Ingeniería Informática**, Universidad de Jaén — TFM sobre app móvil de reconocimiento automático de setas, 9, media 9,1
-- **Grado en Ingeniería Informática**, Universidad de Jaén — TFG sobre sistema de control automático de riego, 9
+- **Máster en Ciberseguridad** — TFM sobre bioidentificación segura con Blockchain, 10 (Matrícula de Honor), media 9,43
+- **Máster en Ingeniería Informática** — TFM sobre app móvil de reconocimiento automático de setas, 9, media 9,1
+- **Grado en Ingeniería Informática** — TFG sobre sistema de control automático de riego, 9
 
 Mejor Expediente Académico de la Promoción · Premio Extraordinario de Máster · Mejor TFM en Emprendimiento (EPS) · 2.º Mejor TFM, Premios Ada Lovelace
 

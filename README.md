@@ -23,9 +23,9 @@
 
 I build **digital identity** systems that have to work in production, under real regulation, for millions of people.
 
-Digital Identity Engineer at [Teknei](https://www.teknei.com), on **NIK / Patrika Digitala** — the Basque Country's digital identity wallet. I work across the whole stack: Java and Node.js backends, RSA and JWT / JWE / JWS / JWKS, OpenID4VCI and OpenID4VP, mDL.
+I currently work on a **digital identity wallet** deployed at national scale, across the whole stack: Java and Node.js backends, RSA and JWT / JWE / JWS / JWKS, OpenID4VCI and OpenID4VP, mDL.
 
-Before that: smart contracts and identity libraries at **Alastria** (self-sovereign identity), and deep learning research at the **University of Jaén**.
+Before that: self-sovereign identity, smart contracts and identity libraries, plus deep learning research on convolutional networks.
 
 ## Selected work
 
@@ -69,9 +69,9 @@ Before that: smart contracts and identity libraries at **Alastria** (self-sovere
 <summary><b>Education &amp; awards</b> — click to expand</summary>
 <br/>
 
-- **MSc in Cybersecurity**, University of Jaén — thesis on secure bio-identification with Blockchain, 10/10 (Honours), GPA 9.43
-- **MSc in Computer Engineering**, University of Jaén — thesis on a mobile app for automatic mushroom recognition, 9/10, GPA 9.1
-- **BSc in Computer Engineering**, University of Jaén — thesis on an automatic irrigation control system, 9/10
+- **MSc in Cybersecurity** — thesis on secure bio-identification with Blockchain, 10/10 (Honours), GPA 9.43
+- **MSc in Computer Engineering** — thesis on a mobile app for automatic mushroom recognition, 9/10, GPA 9.1
+- **BSc in Computer Engineering** — thesis on an automatic irrigation control system, 9/10
 
 Best academic record of the graduating class · Extraordinary Master's Award · Best Entrepreneurship Thesis (EPS) · 2nd Best Thesis, Ada Lovelace Awards
 
