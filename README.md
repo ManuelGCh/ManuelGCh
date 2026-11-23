@@ -11,19 +11,9 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><h2>3.5M+</h2><sub>verifiable credentials issued</sub></td>
-    <td align="center" width="33%"><h2>170k+</h2><sub>monthly active users</sub></td>
-    <td align="center" width="33%"><h2>4.6★</h2><sub>average app store rating</sub></td>
-  </tr>
-</table>
+I build **digital identity** systems: Java and Node.js backends, RSA and JWT / JWE / JWS / JWKS, OpenID4VCI and OpenID4VP, mDL.
 
-<br/>
-
-I build **digital identity** systems that have to work in production, under real regulation, for millions of people.
-
-I currently work on a **digital identity wallet** that has issued millions of verifiable credentials, across the whole stack: Java and Node.js backends, RSA and JWT / JWE / JWS / JWKS, OpenID4VCI and OpenID4VP, mDL.
+My focus is the part that is easy to get wrong — issuing, presenting and revoking credentials so the cryptography holds up in production and not only in a demo.
 
 Before that: self-sovereign identity, smart contracts and identity libraries, plus deep learning research on convolutional networks.
 

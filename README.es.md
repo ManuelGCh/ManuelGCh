@@ -11,19 +11,9 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><h2>+3,5 M</h2><sub>credenciales verificables emitidas</sub></td>
-    <td align="center" width="33%"><h2>+170 k</h2><sub>usuarios activos mensuales</sub></td>
-    <td align="center" width="33%"><h2>4,6★</h2><sub>valoración media en las stores</sub></td>
-  </tr>
-</table>
+Construyo sistemas de **identidad digital**: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
 
-<br/>
-
-Construyo sistemas de **identidad digital** que tienen que funcionar en producción, bajo regulación real, para millones de personas.
-
-Actualmente trabajo en una **cartera de identidad digital** que ha emitido millones de credenciales verificables, en toda la pila: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
+Me centro en la parte que es fácil hacer mal: emitir, presentar y revocar credenciales para que la criptografía aguante en producción y no solo en una demo.
 
 Antes: identidad autosoberana, smart contracts y librerías de identidad, además de investigación en deep learning con redes convolucionales.
 
