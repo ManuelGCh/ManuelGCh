@@ -17,14 +17,6 @@ My focus is the part that is easy to get wrong — issuing, presenting and revok
 
 Before that: self-sovereign identity, smart contracts and identity libraries, plus deep learning research on convolutional networks.
 
-## Selected work
-
-| | Project | What it is | Stack |
-| :---: | :--- | :--- | :--- |
-| 🧩 | **[Multi-agent Battleship](https://github.com/ManuelGCh/multiagentes)** | Game-manager and player agents that discover each other, negotiate and play through a shared ontology | `Java` `JADE` `FIPA` |
-| 🌍 | **[Java i18n Demo](https://github.com/ManuelGCh/Internationalization-APP)** | Desktop app showing runtime internationalisation: `ResourceBundle`, `Locale`, live language switching | `Java` `Swing` |
-| 🍔 | **[Fast Food App](https://github.com/ManuelGCh/fast-food-app)** | Food-delivery iOS app prototype: menu, cart and checkout flow | `Swift` `UIKit` |
-
 ## Toolbox
 
 **Identity & crypto**  

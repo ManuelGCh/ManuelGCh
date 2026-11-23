@@ -17,14 +17,6 @@ Me centro en la parte que es fácil hacer mal: emitir, presentar y revocar crede
 
 Antes: identidad autosoberana, smart contracts y librerías de identidad, además de investigación en deep learning con redes convolucionales.
 
-## Trabajo destacado
-
-| | Proyecto | Qué es | Stack |
-| :---: | :--- | :--- | :--- |
-| 🧩 | **[Multi-agent Battleship](https://github.com/ManuelGCh/multiagentes)** | Agentes de grupo de juego y jugador que se descubren, negocian y juegan mediante una ontología compartida | `Java` `JADE` `FIPA` |
-| 🌍 | **[Java i18n Demo](https://github.com/ManuelGCh/Internationalization-APP)** | Aplicación de escritorio que muestra internacionalización en caliente: `ResourceBundle`, `Locale`, cambio de idioma | `Java` `Swing` |
-| 🍔 | **[Fast Food App](https://github.com/ManuelGCh/fast-food-app)** | Prototipo de app iOS de reparto de comida: menú, carrito y checkout | `Swift` `UIKit` |
-
 ## Herramientas
 
 **Identidad y criptografía**  
