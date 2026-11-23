@@ -11,7 +11,7 @@
 
 <br/>
 
-Construyo sistemas de **identidad digital**: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
+Construyo sistemas de **identidad digital**: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP.
 
 Me centro en la parte que es fácil hacer mal: emitir, presentar y revocar credenciales para que la criptografía aguante en producción y no solo en una demo.
 
@@ -33,7 +33,6 @@ Antes: identidad autosoberana, smart contracts y librerías de identidad, ademá
 ![JWKS](https://img.shields.io/badge/JWKS-000000?style=flat-square)
 ![OpenID4VCI](https://img.shields.io/badge/OpenID4VCI-000000?style=flat-square)
 ![OpenID4VP](https://img.shields.io/badge/OpenID4VP-000000?style=flat-square)
-![mDL](https://img.shields.io/badge/mDL-000000?style=flat-square)
 ![RSA](https://img.shields.io/badge/RSA-000000?style=flat-square)
 
 **Lenguajes**  
