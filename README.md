@@ -23,7 +23,7 @@
 
 I build **digital identity** systems that have to work in production, under real regulation, for millions of people.
 
-I currently work on a **digital identity wallet** deployed at national scale, across the whole stack: Java and Node.js backends, RSA and JWT / JWE / JWS / JWKS, OpenID4VCI and OpenID4VP, mDL.
+I currently work on a **digital identity wallet** that has issued millions of verifiable credentials, across the whole stack: Java and Node.js backends, RSA and JWT / JWE / JWS / JWKS, OpenID4VCI and OpenID4VP, mDL.
 
 Before that: self-sovereign identity, smart contracts and identity libraries, plus deep learning research on convolutional networks.
 

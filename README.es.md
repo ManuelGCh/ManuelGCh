@@ -23,7 +23,7 @@
 
 Construyo sistemas de **identidad digital** que tienen que funcionar en producción, bajo regulación real, para millones de personas.
 
-Actualmente trabajo en una **cartera de identidad digital** desplegada a escala nacional, en toda la pila: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
+Actualmente trabajo en una **cartera de identidad digital** que ha emitido millones de credenciales verificables, en toda la pila: backends en Java y Node.js, RSA y JWT / JWE / JWS / JWKS, OpenID4VCI y OpenID4VP, mDL.
 
 Antes: identidad autosoberana, smart contracts y librerías de identidad, además de investigación en deep learning con redes convolucionales.
 
