@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:manuelgallegoch@gmail.com"><img alt="Email" src="https://img.shields.io/badge/manuelgallegoch@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/Manuel_Gallego-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Ja%C3%A9n,_Spain-8A6D3B?style=flat-square&logo=googlemaps&logoColor=white">
+  <a href="https://www.linkedin.com/in/manuelgallegoch"><img alt="LinkedIn" src="https://img.shields.io/badge/Manuel_Gallego-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 <br/>
@@ -83,5 +81,5 @@ Best academic record of the graduating class · Extraordinary Master's Award · 
 
 <p align="center">
   <sub>Spanish (native) · English (professional)</sub><br/><br/>
-  <sub>Always happy to talk about identity, crypto and ML in production → <a href="mailto:manuelgallegoch@gmail.com">manuelgallegoch@gmail.com</a></sub>
+  <sub>Always happy to talk about identity, crypto and ML in production → <a href="https://www.linkedin.com/in/manuelgallegoch">LinkedIn</a></sub>
 </p>
