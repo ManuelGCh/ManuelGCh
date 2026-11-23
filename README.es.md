@@ -1,12 +1,13 @@
 <h1 align="center">Manuel Gallego Chinchilla</h1>
 
 <p align="center">
-  <sub>INGENIERO INFORMÁTICO &nbsp;·&nbsp; IDENTIDAD DIGITAL &nbsp;·&nbsp; CRIPTOGRAFÍA APLICADA &nbsp;·&nbsp; IA</sub>
+  <sub>INGENIERO INFORMÁTICO &nbsp;·&nbsp; IDENTIDAD DIGITAL &nbsp;·&nbsp; CRIPTOGRAFÍA APLICADA &nbsp;·&nbsp; IA</sub><br/>
+  <sub><a href="README.md">Read in English</a></sub>
 </p>
 
 <p align="center">
   <a href="mailto:manuelgallegoch@gmail.com"><img alt="Email" src="https://img.shields.io/badge/manuelgallegoch@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manuelgallegoch"><img alt="LinkedIn" src="https://img.shields.io/badge/Manuel_Gallego-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/Manuel_Gallego-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <img alt="Ubicación" src="https://img.shields.io/badge/Ja%C3%A9n,_Espa%C3%B1a-8A6D3B?style=flat-square&logo=googlemaps&logoColor=white">
 </p>
 
